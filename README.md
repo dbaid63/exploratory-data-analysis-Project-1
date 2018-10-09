@@ -47,3 +47,11 @@ When you are finished with the assignment, push your git repository to GitHub so
 
 The four plots that you will need to construct are shown below.
 
+## Plot 1
+![Plot1 1](https://github.com/dbaid63/exploratory-data-analysis-Project-1/blob/master/plot-1.png "Plot1 1")
+## Plot 2
+![Plot1 1](https://github.com/dbaid63/exploratory-data-analysis-Project-1/blob/master/Plot-2.png "Plot1 2")
+## Plot 3
+![Plot1 1](https://github.com/dbaid63/exploratory-data-analysis-Project-1/blob/master/Plot-3.png "Plot1 3")
+## Plot 4
+![Plot1 1](https://github.com/dbaid63/exploratory-data-analysis-Project-1/blob/master/Plot-4.png "Plot1 4")
